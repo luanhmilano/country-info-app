@@ -30,7 +30,7 @@ To run this project, you need the following tools installed on your system:
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
 The application should be run at http://localhost:5173
 ## How to Use
 1. On the main page, select a country from the dropdown menu.
