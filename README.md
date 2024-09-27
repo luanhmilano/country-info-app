@@ -31,7 +31,7 @@ To run this project, you need the following tools installed on your system:
 
    ```bash
    npm start
-
+The application should be run at http://localhost:5173
 ## How to Use
 1. On the main page, select a country from the dropdown menu.
 2. Click the "Submit" button to view detailed information about the selected country.
