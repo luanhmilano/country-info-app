@@ -26,7 +26,7 @@ To run this project, you need the following tools installed on your system:
 3. Install the dependencies:
 
    ```bash
-   git clone https://github.com/luanhmilano/country-info-front.git
+   npm install
 4. Start the development server:
 
    ```bash
